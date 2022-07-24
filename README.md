@@ -22,6 +22,8 @@
 ![Python](assets/pythonglow.svg)&nbsp;
 ![JavaScript](assets/javascriptglow.svg)&nbsp;
 
+![Get In Touch](assets/getintouch.svg)
+[![ProtonMail](assets/protonmailglow.svg)](mailto:arthur.galdino.code@proton.me)
 </div>
 <!--
 **araujoarthur/araujoarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
