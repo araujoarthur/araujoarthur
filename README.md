@@ -13,7 +13,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&color=DD2727&center=true&lines=Technologies+I+am+Learning+and+Using)
 
+![C](assets/cglow.svg)
 ![C++](assets/cplusplusglow.svg)
+![Fortran](assets/fortranglow.svg)
+![Delphi]assets/delphiglow.svg)
+
 
 </div>
 <!--
