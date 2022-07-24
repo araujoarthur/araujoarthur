@@ -16,7 +16,7 @@
 ![C](assets/cglow.svg)
 ![C++](assets/cplusplusglow.svg)
 ![Fortran](assets/fortranglow.svg)
-![Delphi]assets/delphiglow.svg)
+![Delphi](assets/delphiglow.svg)
 
 
 </div>
