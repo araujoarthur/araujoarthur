@@ -26,7 +26,7 @@
 <br><br>
 [![ProtonMail](assets/protonmailglow.svg)](mailto:arthur.galdino.code@proton.me)
 
-<br<br>
+<br><br>
 ![Competitive Coding](assets/compcoding.svg)
 </div>
 <!--
