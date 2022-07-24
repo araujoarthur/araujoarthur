@@ -18,7 +18,7 @@
 ![Fortran](assets/fortranglow.svg)&nbsp;
 ![Delphi](assets/delphiglow.svg)&nbsp;&nbsp;&nbsp;
 ![Julia](assets/juliaglow.svg)&nbsp;
-
+![Python](assets/pythonglow.svg)&nbsp;
 
 </div>
 <!--
