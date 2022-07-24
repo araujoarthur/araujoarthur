@@ -85,7 +85,7 @@
 		</g>
 		<g class="orbital">
 			<path class="-path" d="M115,74a30,120 120 1,1 -30,52 30,120 120 1,1 30,-52"/>
-			<circle class="-electron2" x="0" y="0" r="8" fill="#424242" style="offset-path: path('M115,74a30,120 120 1,1 -30,52 30,120 120 1,1 30,-52')"/>
+			<circle class="-electron3" x="0" y="0" r="8" fill="#424242" style="offset-path: path('M115,74a30,120 120 1,1 -30,52 30,120 120 1,1 30,-52')"/>
 		</g>
 	</svg>
     <text class="usernameText" x="50%" y="80%" text-anchor="middle" fill="#fcba03" width="100%">
