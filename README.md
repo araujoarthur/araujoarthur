@@ -19,6 +19,7 @@
 ![Delphi](assets/delphiglow.svg)&nbsp;&nbsp;&nbsp;
 ![Julia](assets/juliaglow.svg)&nbsp;
 ![Python](assets/pythonglow.svg)&nbsp;
+![JavaScript](assets/javascriptglow.svg)&nbsp;
 
 </div>
 <!--
