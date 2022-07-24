@@ -4,9 +4,10 @@
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=araujoarthur.araujoarthur)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=araujoarthur&background=F5E1C0&ring=86092C&fire=574038&currStreakNum=4D0000&currStreakLabel=4D0000&stroke=86092C&sideNums=574038&sideLabels=574038&border=4D0000)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoarthur&theme=moltack&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoarthur&layout=compact&theme=moltack)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=araujoarthur&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=araujoarthur&theme=great-gatsby&show_icons=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoarthur&layout=compact&theme=great-gatsby)
 
 
 
