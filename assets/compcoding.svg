@@ -1,0 +1,38 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -20 800 100" width="800px" height="100px">
+	<defs>
+		<style>
+         text {
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+            font-weight:bold;
+         }
+
+         @keyframes glowHeadline {
+            0%{
+               text-shadow: 1px 1px 8px #7a04eb;
+            }
+            50%{
+               text-shadow: 1px 1px 16px #120458;
+            }
+            100%{
+               text-shadow: 1px 1px 8px #7a04eb;
+            }
+
+         }
+
+         .headline {
+            font-size:50pt;
+            animation:glowHeadline 1s linear infinite;
+         }
+
+         .summary {
+            font-size:18pt;
+            animation: glowSummary 2s linear infinite;
+         }
+
+		</style>
+	</defs>
+    <text class="headline" x="50%" y="50%" text-anchor="middle" fill="#FF00a0">
+      COMPETITIVE CODING
+    </text>
+</svg>
