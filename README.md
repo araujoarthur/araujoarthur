@@ -12,8 +12,7 @@
 <br>
 <br>
 
-![Technologies](assets/technologies.svg)
-
+![Technologies](assets/technologies.svg)<br>
 ![C](assets/cglow.svg)&nbsp;
 ![C++](assets/cplusplusglow.svg)&nbsp;
 ![Fortran](assets/fortranglow.svg)&nbsp;
@@ -22,8 +21,13 @@
 ![Python](assets/pythonglow.svg)&nbsp;
 ![JavaScript](assets/javascriptglow.svg)&nbsp;
 
+<br><br>
 ![Get In Touch](assets/getintouch.svg)
+<br><br>
 [![ProtonMail](assets/protonmailglow.svg)](mailto:arthur.galdino.code@proton.me)
+
+<br<br>
+![Competitive Coding](assets/compcoding.svg)
 </div>
 <!--
 **araujoarthur/araujoarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
