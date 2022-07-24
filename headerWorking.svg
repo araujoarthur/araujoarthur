@@ -1,0 +1,94 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -10 800 400" width="800px" height="400px">
+	<defs>
+		<style>
+            @import url('https://fonts.googleapis.com/css2?family=Righteous&amp;display=swap&amp;text=araujoarthur');
+            @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;display=swap');
+            
+			@keyframes follow-path {
+				from {
+					motion-offset: 0%;
+					offset-distance: 0%;
+				}
+				to {
+					motion-offset: 100%;
+					offset-distance: 100%;
+				}
+			}
+
+            @keyframes fadeIn {
+                0% { opacity: 0; }
+                100% { opacity: 1; }
+            }
+          
+
+            @keyframes glow {
+                50% {
+                    text-shadow: 0 0 5px white, 0 0 3px #d4d2d2;
+                }
+            }
+
+            @keyframes electronGlow {
+                50% {
+                    filter: drop-shadow(1px 1px 5px #86092C);
+                }
+            }
+            
+            svg {
+                background-color:black;
+            }
+
+			.orbital &gt; .-path {
+				fill: none;
+				stroke: #F5E1C0;
+				stroke-width: 4;
+			}
+
+			.orbital &gt; .-electron1 {
+				offset-path: path(attr(orbital-path));
+				animation: follow-path 4s linear infinite, electronGlow 0.8s ease-in infinite;
+			}
+
+            .orbital &gt; .-electron2 {
+				offset-path: path(attr(orbital-path));
+				animation: follow-path 4s linear infinite, electronGlow 1.2s ease-out infinite;
+			}
+
+            .orbital &gt; .-electron3 {
+				offset-path: path(attr(orbital-path));
+				animation: follow-path 4s linear infinite, electronGlow 1s ease-in infinite;
+			}
+
+            .usernameText {
+                animation: fadeIn 1.5s, glow 1.8s ease-in-out infinite;
+                text-align: center;
+                font-family: 'Bebas Neue';
+                font-size:100pt;
+                stroke:0;
+            }
+
+            .nucleus {
+                animation: electronGlow 5s ease-in-out infinite;
+            }
+
+		</style>
+	</defs>
+	<svg class="atom" viewBox="0 0 200 200" x="0" y="0" width="800" height="200" overflow="visible">
+		<circle class="nucleus" cx="100" cy="100" r="16" fill="#F5E1C0"/>
+		<g class="orbital">
+			<path class="-path" d="M70,100a30,100 0 1,1 60,0 30,100 0 1,1 -60,0"/>
+			<circle class="-electron1" x="0" y="0" r="8" fill="#86092C" style="offset-path: path('M70,100a30,100 0 1,1 60,0 30,100 0 1,1 -60,0')"/>
+		</g>
+		<g class="orbital">
+			<path class="-path" d="M85,74a30,120 60 1,1 30,52 30,120 60 1,1 -30,-52"/>
+			<circle class="-electron2" x="0" y="0" r="8" fill="#86092C" style="offset-path: path('M85,74a30,120 60 1,1 30,52 30,120 60 1,1 -30,-52')"/>
+		</g>
+		<g class="orbital">
+			<path class="-path" d="M115,74a30,120 120 1,1 -30,52 30,120 120 1,1 30,-52"/>
+			<circle class="-electron2" x="0" y="0" r="8" fill="#86092C" style="offset-path: path('M115,74a30,120 120 1,1 -30,52 30,120 120 1,1 30,-52')"/>
+		</g>
+	</svg>
+    <text class="usernameText" x="50%" y="90%" text-anchor="middle" fill="#F5E1C0" width="100%">
+    araujoarthur
+    </text>
+</svg>
