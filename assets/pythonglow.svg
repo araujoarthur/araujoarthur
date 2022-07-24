@@ -3,7 +3,7 @@
     <style>
         @keyframes glow {
                     50% {
-                        filter: drop-shadow(0.001em 0.001em 0.03em #FFE873);
+                        filter: drop-shadow(0.001em 0.001em 0.01em #FFE873);
                     }
                 }
         path {
