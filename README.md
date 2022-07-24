@@ -9,9 +9,10 @@
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoarthur&layout=compact&theme=great-gatsby)
 
+<br>
+<br>
 
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&color=DD2727&center=true&lines=Technologies+I+am+Learning+and+Using)
+![Technologies](assets/technologies.svg)
 
 ![C](assets/cglow.svg)&nbsp;
 ![C++](assets/cplusplusglow.svg)&nbsp;
