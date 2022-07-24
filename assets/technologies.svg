@@ -1,0 +1,60 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800px" height="200px">
+	<defs>
+		<style>
+         text {
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+            font-weight:bold;
+         }
+
+         @keyframes glowHeadline {
+            0%{
+               text-shadow: 1px 1px 8px #FFE873;
+            }
+            50%{
+               text-shadow: 1px 1px 16px #FFE873;
+            }
+            100%{
+               text-shadow: 1px 1px 8px #FFE873;
+            }
+
+         }
+
+         @keyframes glowSummary{
+            0%{
+               text-shadow: 1px 1px 5px #4B8BBE;
+            }
+            25%{
+               text-shadow: 1px 1px 10px #4B8BBE;
+            }
+            30%{
+               text-shadow: 1px 1px 5px #4B8BBE;
+            }
+            48%{
+               text-shadow: 1px 1px 10px #4B8BBE;
+            }
+            100%{
+               text-shadow: 1px 1px 4px #4B8BBE;
+            }
+
+         }
+
+         .headline {
+            font-size:50pt;
+            animation:glowHeadline 1s linear infinite;
+         }
+
+         .summary {
+            font-size:18pt;
+            animation: glowSummary 2s linear infinite;
+         }
+
+		</style>
+	</defs>
+    <text class="headline" x="50%" y="40%" text-anchor="middle" fill="#fcba03">
+      LANGUAGES
+    </text>
+    <text class="summary" x="50%" y="60%" text-anchor="middle" fill="#306998">
+      I am learning and using
+    </text>
+</svg>
