@@ -33,10 +33,6 @@
                     filter: drop-shadow(1px 1px 5px #86092C);
                 }
             }
-            
-            svg {
-                background-color:black;
-            }
 
 			.orbital &gt; .-path {
 				fill: none;
