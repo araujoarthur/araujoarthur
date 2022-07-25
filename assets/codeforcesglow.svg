@@ -33,12 +33,6 @@
             animation-delay:2s;
         }
 
-
-
-        svg {
-            background-color:black;
-        }
-
     </style>
 
         <linearGradient id="linear-gradient" x1="-100%" y1="0" x2="200%" y2="0" >
