@@ -1,0 +1,59 @@
+<svg role="img" viewBox="0 0 50 50" width="60px" height="60px" xmlns="http://www.w3.org/2000/svg">
+<defs>
+    <style>
+         @keyframes glowF {
+                    50% {
+                        filter: drop-shadow(0.001em 0.001em 0.04em #f7c323);
+                    }
+                }
+
+        @keyframes glowS {
+                    50% {
+                        filter: drop-shadow(0.001em 0.001em 0.04em #1c7eba);
+                    }
+                }
+
+        @keyframes glowT {
+                    50% {
+                        filter: drop-shadow(0.001em 0.001em 0.04em #b31217);
+                    }
+                }
+
+        .firstblock {
+            animation: glowF 3s ease-out infinite;
+        }
+
+        .secondblock {
+            animation: glowS 3s ease-in infinite;
+            animation-delay:1s;
+        }
+
+        .thirdblock {
+            animation: glowT 3s ease-in infinite;
+            animation-delay:2s;
+        }
+
+
+
+        svg {
+            background-color:black;
+        }
+
+    </style>
+
+        <linearGradient id="linear-gradient" x1="-100%" y1="0" x2="200%" y2="0" >
+            <stop offset="0" stop-color="#6d4aff">
+            </stop>
+            <stop offset=".25" stop-color="#4a2dc5">
+            <animate attributeName="offset" dur="5s" values="0;1;0"
+                repeatCount="indefinite" />
+            </stop>
+        </linearGradient>
+
+</defs>
+    <svg viewBox="0 0 24 24" height="95%" width="95%" overflow="visible">
+        <path class="firstblock" stroke="black" stroke-width="0.2" fill="#e9bc25" d="M4.5,7.5C5.328,7.5,6,8.172,6,9V19.5C6,20.328,5.328,21,4.5,21H1.5C0.673,21,0,20.328,0,19.5V9C0,8.172,0.673,7.5,1.5,7.5H4.5Z" />
+        <path class="secondblock" stroke="black" stroke-width="0.2" fill="#1c7eba" d="M13.5,3C14.328,3,15,3.672,15,4.5V19.5C15,20.328,14.328,21,13.5,21H10.5C9.673,21,9,20.328,9,19.5V4.5C9,3.672,9.673,3,10.5,3H13.5Z" />
+        <path class="thirdblock" stroke="black" stroke-width="0.2" fill="#b31217" d="M22.5,10.5C23.328,10.5,24,11.172,24,12V19.5C24,20.328,23.328,21,22.5,21H19.5C18.672,21,18,20.328,18,19.5V12C18,11.172,18.672,10.5,19.5,10.5H22.5Z"/>
+    </svg>
+</svg>
