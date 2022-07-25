@@ -35,7 +35,7 @@ Just started! Don't expect to see much there for now.
 [![TopCoder](assets/topcoderglow.svg)](https://www.topcoder.com/members/araujoarthur)
 [![CodeChef](assets/codechefglow.svg)](https://www.codechef.com/users/araujoarthur)
 [![HackerRank](assets/hackerrankglow.svg)](https://www.hackerrank.com/araujoarthur)
-[![Codeforces](assets/codeforcesglow.svg)](https://codeforces.com/profile/araujoarthur)
+[![Codeforces](assets/codeforcesglow2.svg)](https://codeforces.com/profile/araujoarthur)
 [![Codewars](assets/codewarsglow.svg)](https://www.codewars.com/users/araujoarthur)
 </div>
 <!--
