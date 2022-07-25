@@ -28,6 +28,8 @@
 
 <br><br>
 ![Competitive Coding](assets/compcoding.svg)
+Just started! Don't expect to see much there for now.
+[![LeetCode](assets/leetcodeglow.svg)](https://leetcode.com/araujoarthur/)
 </div>
 <!--
 **araujoarthur/araujoarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
