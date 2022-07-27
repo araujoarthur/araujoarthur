@@ -37,6 +37,11 @@ Just started! Don't expect to see much there for now.
 [![HackerRank](assets/hackerrankglow.svg)](https://www.hackerrank.com/araujoarthur)
 [![Codeforces](assets/codeforcesglow2.svg)](https://codeforces.com/profile/araujoarthur)
 [![Codewars](assets/codewarsglow.svg)](https://www.codewars.com/users/araujoarthur)
+
+<br><br>
+![Initiatives](assets/supporting.svg)
+
+[![Open Source](assets/opensourceinitiativeglow.svg)](https://opensource.org)
 </div>
 <!--
 **araujoarthur/araujoarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
