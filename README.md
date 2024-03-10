@@ -64,7 +64,14 @@ I'm a Software Engineering student and a big fan of compiled (native) languages.
 
 ## Languages I'm actively learning and using
 <div align="center">  
-
+<img src="./assets/_new/clang.png" alt="C Language">
+<img src="./assets/_new/cpp.png" alt="C++ Language">
+<img src="./assets/_new/csharp.png" alt="C-Sharp Language">
+<img src="./assets/_new/rust.png" alt="Rust Language">
+<img src="./assets/_new/java.png" alt="Java Language">
+<img src="./assets/_new/javascript.png" alt="JavaScript Language">
+<img src="./assets/_new/julia.png" alt="Julia Language">
+<img src="./assets/_new/python.png" alt="Python Language">
 </div>  
 
 <br/>  
