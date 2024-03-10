@@ -15,7 +15,13 @@
 <a href="https://www.codechef.com/users/araujoarthur" target="_blank">
 <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt=Codechef style="margin-bottom: 5px;" /></a>
 <a href="https://codeforces.com/profile/araujoarthur" target="_blank">
-<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt=kaggle style="margin-bottom: 5px;" /></a>
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt=Codeforces style="margin-bottom: 5px;" /></a>
+<a href="https://www.codewars.com/users/araujoarthur" target="_blank">
+<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt=Codewars style="margin-bottom: 5px;" /></a>
+<a href="https://www.hackerrank.com/profile/araujoarthurr" target="_blank">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=Hackerrank style="margin-bottom: 5px;" /></a>
+<a href="https://www.hackerearth.com/@araujoarthur" target="_blank">
+<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt=Hackerearth style="margin-bottom: 5px;" /></a>
 </div>  
   
 
