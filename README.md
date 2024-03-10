@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt=Hackerrank style="margin-bottom: 5px;" /></a>
 <a href="https://www.hackerearth.com/@araujoarthur" target="_blank">
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt=Hackerearth style="margin-bottom: 5px;" /></a>
+<a href="https://leetcode.com/araujoarthurr/" target="_blank">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt=Leetcode style="margin-bottom: 5px;" /></a>
+<a href="https://www.reddit.com/user/araujoarthurr/" target="_blank">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt=Reddit style="margin-bottom: 5px;" /></a>
 </div>  
   
 
