@@ -47,7 +47,7 @@ I'm a Software Engineering student and a big fan of compiled (native) languages.
 - 🌱 I’m always learning something new.  
   
 
-- ❓ Ask me about Object Pascal, maybe. I might also be helpful with subjects like Reverse Engineering and Malware Development and Analysis!
+- ❓ Ask me about Object Pascal, maybe. I might also be helpful with subjects like Reverse Engineering and Malware Development and Analysis! (I might not be helpful at all, but I'll be interested)
 
 
 </td><td valign="top" width="50%">
