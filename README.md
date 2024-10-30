@@ -41,7 +41,7 @@ I'm a Software Engineering student and a big fan of compiled (native) languages.
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Shopee Wrapper](https://github.com/araujoarthur/ShopeePascal)  
+- 🔭 I’m currently working on a private repository 
   
 
 - 🌱 I’m always learning something new.  
