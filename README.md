@@ -62,7 +62,7 @@ I'm a Software Engineering student and a big fan of compiled (native) languages.
 <br/>  
 
 
-## Languages I'm actively learning and using
+## I do not date any language, but here are some I'm familiar with
 <div align="center">  
 <img src="./assets/_new/clang.png" alt="C Language">
 <img src="./assets/_new/cpp.png" alt="C++ Language">
