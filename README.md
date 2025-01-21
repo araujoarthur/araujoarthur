@@ -27,7 +27,8 @@
 <a href="https://www.reddit.com/user/araujoarthurr/" target="_blank">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt=Reddit style="margin-bottom: 5px;" /></a>
 </div>  
-  
+
+<span style="font-size:5pt">(I dont use most of these, still I have an account just in case...)</span>
 
 
 
